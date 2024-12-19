@@ -20,12 +20,12 @@ Follow these steps to install and run the tool on Termux:
 
 Install the necessary Python libraries:
 
-bash
-Copy code
-pip install requests beautifulsoup4 curses
-Clone or Copy the Script
-Save the script to a file, e.g., sql_scanner.py.
 
+1. **Install Python**  
+   Install Python if not already installed:
+   ```bash
+   pip install requests beautifulsoup4 curses
+   
 Usage
 Run the script:
 
